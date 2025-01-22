@@ -181,7 +181,7 @@ CCTV-17,http://60.11.200.120:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV-17,http://146.235.213.45:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV-17,http://117.144.58.42:35455/gaoma/cctv17.m3u8
 
-央卫备用频道2,#genre#
+央卫备用频道,#genre#
 #2025年1月22日
 CCTV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
